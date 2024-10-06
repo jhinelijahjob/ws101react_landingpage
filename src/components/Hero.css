@@ -1,0 +1,23 @@
+.hero {
+    text-align: center;
+    padding: 5rem;
+    background-image: url('./truck.jpg');
+    color:  #f87070;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+  }
+  
+  .hero button {
+    padding: 0.5rem 1.5rem;
+    font-size: 1.2rem;
+    background-color: #f78528;
+    color: white;
+    border: none;
+  }
+ 

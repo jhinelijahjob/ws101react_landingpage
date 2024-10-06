@@ -1,0 +1,16 @@
+.features {
+    text-align: center;
+    padding: 4rem 2rem;
+    background-color: #4644d8;
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .card {
+    width: 30%;
+    padding: 1rem;
+    border: 1px solid #6b2828;
+  }
